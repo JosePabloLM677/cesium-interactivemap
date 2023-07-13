@@ -1,0 +1,5 @@
+/* Cesium map container class */
+.cesium-map {
+    width: 50vw;
+    height: 50vh;
+}

@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/Cesium/Widgets/widgets.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/Cesium/Cesium.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -87,9 +90,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/Cesium/Widgets/widgets.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/Cesium/Cesium.js"
+            ]
           }
         }
       }
